@@ -1,4 +1,4 @@
- 🌤️ Weather App UI – HTML & CSS
+# 🌤️ Weather App UI – HTML & CSS
 
 This repository contains a **Weather App User Interface** created using **pure HTML and CSS**.
 The project focuses on **UI design, layout structure, and styling**, without using JavaScript or APIs.
@@ -14,8 +14,6 @@ This project is part of my **learning journey in frontend development**.
 ┣ 📄 style.css
 ┗ 📄 README.md
 
-yaml
-Copy code
 
 ---
 
